@@ -10,11 +10,20 @@ cd c:\folder_name
 pwd
 ```
 
-Листинг текущей директории Windows
+Листинг текущей директории Windows:
 ```sh
 dir
 ```
-Linux, MacOs
+Linux, MacOs:
 ```sh
 ls
+```
+
+Удаление файла в Windows:
+```sh
+del <fikename>
+```
+в Linux, MacOs:
+```sh
+rm <filename>
 ```
