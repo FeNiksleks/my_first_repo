@@ -1,5 +1,5 @@
 ![GIT](https://kadvarus.com/wp-content/uploads/2022/09/git-100x100.jpeg) 
-# Подсказка по GIT
+# ~~Подсказка~~ Основы по GIT
 
 ## Инициализация GIT в отслеживаемом каталоге
 ```sh
@@ -54,5 +54,6 @@ git diff
 
 [Часть_1](https://habr.com/ru/post/541258/)
 
-[Часть_2](https://habr.com/ru/post/542616/)
+[Часть_2](https://habr.com/ru/post/542616/ "Да, я просто одолжил ссылку из описания под уроком")
+
 
