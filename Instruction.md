@@ -28,4 +28,5 @@
 Обычный текст с [сылкой]("http.example.com "Всплывающая подсказка")
 
 # Добавим как добавлять картинки в MarkDown
-
+Это яблоко
+![Яблоко](https://avatars.mds.yandex.net/i?id=cbbd4679bf48cf801d71a4919496c5df0f6d8d28-9242214-images-thumbs&n=13)
