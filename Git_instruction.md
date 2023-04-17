@@ -62,6 +62,12 @@ git diff
 git branch
 ```
 
+## Удаление ветки GIT
+
+``` sh
+git branch -d
+```
+
 ## Слияние веток GIT
 
 ``` sh
